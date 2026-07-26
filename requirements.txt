@@ -1,0 +1,45 @@
+# Core Data Science
+numpy>=2.0.0
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Visualization
+matplotlib>=3.9.0
+plotly>=5.22.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# Deep Learning & TinyML
+tensorflow>=2.18.0
+tensorflow-model-optimization>=0.8.0
+
+# Data Validation
+pydantic>=2.7.0
+
+# Notebook Utilities
+jupyter>=1.1.0
+ipykernel>=6.29.0
+tqdm>=4.66.0
+
+# Experiment Logging
+mlflow>=2.14.0
+
+# Configuration
+PyYAML>=6.0.1
+
+# Graphs & Network Analysis
+networkx>=3.3
+
+# Statistical Analysis
+statsmodels>=0.14.2
+
+# Model Explainability
+shap>=0.46.0
+
+# Optional: Interactive Dashboard
+streamlit>=1.37.0
+
+# Optional: Testing
+pytest>=8.2.0
